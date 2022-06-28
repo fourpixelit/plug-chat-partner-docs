@@ -13,6 +13,8 @@ title: Criar conta
 
 Este método permite você criar uma conta para seu cliente.
 
+Ao criar por padrão também é criado um departamento padrão com nome de departamento "Geral".
+
 ---
 
 ## Atributos

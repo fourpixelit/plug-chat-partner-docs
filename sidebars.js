@@ -30,6 +30,7 @@ module.exports = {
       'sdk/install',
       'sdk/configuration',
       'sdk/customization',
+      'sdk/magic-login',
       'sdk/chat-interaction',
       'sdk/floating-button',
       'sdk/sdk-destroy',

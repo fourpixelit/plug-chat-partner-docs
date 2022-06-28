@@ -11,9 +11,9 @@ title: Criar operador
 
 ## Conceituação
 
-Neste método você criar um novo operador de chat e vincular a departamentos, caso tenha dúvidas de onde pegar os IDS dos departamentos, você pode utilizar a API de listar departamentos.
+Neste método você criar um novo operador de chat e vincular a departamentos, caso tenha dúvidas de onde pegar os IDS dos departamentos, você pode utilizar a API de <a href="/departments/list-department">listar departamentos</a>.
 
-Observe também que ao criar um operador é retornado o atributo **accessToken**, esse token é importante ser armazenado do seu lado, para que quando o cliente fizer login no seu sistema, automaticamente faça login no chat de atendimento sem a necessidade de digitar login e senha do operador.
+Observe também que ao criar um operador é retornado o atributo **accessToken**, utilizado para fazer o <a href="/sdk/magic-login">login automático</a>, esse token é importante ser armazenado do seu lado, para que quando o cliente fizer login no seu sistema, automaticamente faça login no chat de atendimento sem a necessidade de digitar login e senha do operador.
 
 ---
 

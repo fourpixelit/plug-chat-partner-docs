@@ -55,7 +55,7 @@ Também é possível aplicar sua identidade visual
 ChatPluginPlay.init({
   accountId: '32133-31232-312321-312312-312312',
   enableFloatingButton: true,
-  appName: 'Kigi Chat',
+  appName: 'Meu Chat',
   appIcon: 'https://www.plugchat.com.br/white-label/plug-chat/logo.png',
   appLogo: 'https://www.plugchat.com.br/white-label/plug-chat/plug-blue.png',
   appPrimaryColor: '#455CC7',
