@@ -1,0 +1,17 @@
+{
+  "method": "PUT",
+  "url": "https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "cookies": [],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"name\": \"Meu Cliente 001\", \"active\": true}"
+  }
+}
