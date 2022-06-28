@@ -25,5 +25,14 @@ module.exports = {
       'operators/list-operator',
       'operators/update-operator',
     ],
+    SDK: [
+      'sdk/introduction',
+      'sdk/install',
+      'sdk/configuration',
+      'sdk/customization',
+      'sdk/chat-interaction',
+      'sdk/floating-button',
+      'sdk/sdk-destroy',
+    ],
   },
 };
