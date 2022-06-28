@@ -11,7 +11,7 @@ title: Criar operador
 
 ## Conceituação
 
-Neste método você criar um novo operador de chat e vincular a departamentos, caso tenha dúvidas de onde pegar os IDS dos departamentos, você pode utilizar a API de <a href="/departments/list-department">listar departamentos</a>.
+Neste método você pode criar um novo operador de chat e vincular a departamentos, caso tenha dúvidas de onde pegar os IDS dos departamentos, você pode utilizar a API de <a href="/departments/list-department">listar departamentos</a>.
 
 Observe também que ao criar um operador é retornado o atributo **accessToken**, utilizado para fazer o <a href="/sdk/magic-login">login automático</a>, esse token é importante ser armazenado do seu lado, para que quando o cliente fizer login no seu sistema, automaticamente faça login no chat de atendimento sem a necessidade de digitar login e senha do operador.
 
@@ -32,6 +32,16 @@ Observe que a URL da API é composta pelo id da conta do cliente, o mesmo retorn
 | name | string | Nome do operador |
 | active | boolean | Informa se o operador está ativo ou não |
 | departments | string[] | Lista de IDS dos departamentos que o operador possui acesso |
+
+### Opcionais
+
+| Atributos | Tipo | Descrição |
+| :-- | :-: | :-- |
+| login | string | Login que será usado para acesso ao chat |
+| password | string | Senha do operador para acesso ao chat |
+| isAdmin | string | Define se esse operador possui permissões de administrador, podendo deletar chats entre outros... |
+
+Obs: O login e senha são opcionais pois em alguns casos o integrador opta por utilizar o <a href="/sdk/magic-login">login automático</a>, então o operador não precisa se preocupar em digitar os dados de acesso.
 
 ---
 

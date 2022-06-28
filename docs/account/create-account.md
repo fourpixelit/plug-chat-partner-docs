@@ -32,6 +32,7 @@ Ao criar por padrão também é criado um departamento padrão com nome de depar
 | Atributos | Tipo | Descrição |
 | :-- | :-: | :-- |
 | sessionName | string | Você pode definir um nome que será visivel apenas no whatsapp no momento da leitura do QRCode. |
+| onFinishAttendance | string | Você pode configurar uma URL de webhook para receber informações sempre que um atendimento for finalizado. |
 
 ---
 

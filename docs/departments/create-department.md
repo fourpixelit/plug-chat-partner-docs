@@ -11,7 +11,7 @@ title: Criar departamento
 
 ## Conceituação
 
-Neste método você criar departamentos para separar contextos dos chats.
+Neste método você pode criar departamentos para separar contextos dos chats.
 
 ---
 

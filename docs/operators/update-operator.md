@@ -32,6 +32,16 @@ Observe que a URL da API é composta pelo id da conta do cliente, o mesmo retorn
 | active | boolean | Informa se o operador está ativo ou não |
 | departments | string[] | Lista de IDS dos departamentos que o operador possui acesso |
 
+### Opcionais
+
+| Atributos | Tipo | Descrição |
+| :-- | :-: | :-- |
+| login | string | Login que será usado para acesso ao chat |
+| password | string | Senha do operador para acesso ao chat |
+| isAdmin | string | Define se esse operador possui permissões de administrador, podendo deletar chats entre outros... |
+
+Obs: O login e senha são opcionais pois em alguns casos o integrador opta por utilizar o <a href="/sdk/magic-login">login automático</a>, então o operador não precisa se preocupar em digitar os dados de acesso.
+
 ---
 
 ## Request Body

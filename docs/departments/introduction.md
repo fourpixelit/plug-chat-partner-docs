@@ -5,7 +5,7 @@ title: Introdução
 
 ### Conceituação
 
-Você pode configurar vários departamentos para um conta, departamentos podem ser vinculados a operadores, muito usado quando precisa ser controlado setores da empresa e dividir contextos como Financeiro, Suporte, Comercial, etc...
+Você pode configurar vários departamentos para uma conta, departamentos podem ser vinculados a operadores, muito usado quando precisa ser controlado setores da empresa e dividir contextos como Financeiro, Suporte, Comercial, etc...
 
 Os departamentos também são utilizados pela URA, que ao receber uma nova mensagem de um usuário, fará a triagem e direcionará para o departamento desejado.
 
