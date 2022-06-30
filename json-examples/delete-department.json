@@ -1,6 +1,6 @@
 {
   "method": "DELETE",
-  "url": "https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments/[ID_DO_DEPARTAMENTO]",
+  "url": "https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/departments/[ID_DO_DEPARTAMENTO]",
   "httpVersion": "HTTP/1.1",
   "queryString": [],
   "headers": [],

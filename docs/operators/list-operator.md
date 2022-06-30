@@ -5,7 +5,7 @@ title: Listar operadores
 
 ## Método
 
-`GET` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/operators
+`GET` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/operators
 
 ---
 

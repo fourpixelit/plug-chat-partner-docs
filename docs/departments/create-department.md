@@ -5,7 +5,7 @@ title: Criar departamento
 
 ## Método
 
-`POST` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments
+`POST` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/departments
 
 ---
 

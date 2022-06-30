@@ -5,7 +5,7 @@ title: Atualizar operador
 
 ## Método
 
-`PUT` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/operators
+`PUT` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/operators
 
 ---
 

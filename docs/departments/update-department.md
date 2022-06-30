@@ -5,7 +5,7 @@ title: Atualizar departamento
 
 ## Método
 
-`PUT` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments
+`PUT` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/departments
 
 ---
 

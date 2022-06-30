@@ -5,7 +5,7 @@ title: Excluir departamento
 
 ## Método
 
-`DELETE` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments/[ID_DO_DEPARTAMENTO]
+`DELETE` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/departments/[ID_DO_DEPARTAMENTO]
 
 ---
 

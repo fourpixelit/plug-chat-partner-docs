@@ -1,6 +1,6 @@
 {
   "method": "POST",
-  "url": "https://www.plugchat.com.br/api/integrator/account",
+  "url": "https://api.plugchat.com.br/integrator/account",
   "httpVersion": "HTTP/1.1",
   "queryString": [],
   "headers": [

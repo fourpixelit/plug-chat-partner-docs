@@ -5,7 +5,7 @@ title: Listar departamentos
 
 ## Método
 
-`GET` https://www.plugchat.com.br/api/integrator/account/[ID_DA_CONTA]/departments
+`GET` https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/departments
 
 ---
 

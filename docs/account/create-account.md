@@ -5,7 +5,7 @@ title: Criar conta
 
 ## Método
 
-`POST` https://www.plugchat.com.br/api/integrator/account
+`POST` https://api.plugchat.com.br/integrator/account
 
 ---
 
