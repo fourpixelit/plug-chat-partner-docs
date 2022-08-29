@@ -4,7 +4,7 @@ title: Introdução
 slug: /
 ---
 
-## Plug Chat - Para integradores!
+## Plug Chat - Para parceiros!
 
 Esta documentação foi focada nos recursos e possibilidades que um parceiro do **Plug Chat** consegue fazer via API.
 

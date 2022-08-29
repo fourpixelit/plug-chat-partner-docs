@@ -1,0 +1,17 @@
+{
+  "method": "POST",
+  "url": "https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/subscription",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "cookies": [],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"operators\": 3}"
+  }
+}

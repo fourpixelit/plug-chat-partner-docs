@@ -13,7 +13,7 @@ module.exports = {
     },
   },
   title: 'Plug Chat Docs',
-  tagline: 'Para parceiros integradores',
+  tagline: 'Para parceiros parceiros',
   url: 'https://partner.plugchat.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',

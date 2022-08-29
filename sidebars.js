@@ -11,7 +11,12 @@ module.exports = {
   tutorialSidebar: {
     'Quick Start': ['quickstart/introduction', 'quickstart/authentication'],
 
-    Conta: ['account/introduction', 'account/create-account'],
+    Conta: [
+      'account/introduction',
+      'account/create-account',
+      'account/subscription',
+      'account/cancel-subscription',
+    ],
     Departamentos: [
       'departments/introduction',
       'departments/create-department',
