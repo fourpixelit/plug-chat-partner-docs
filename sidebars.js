@@ -14,6 +14,7 @@ module.exports = {
     Conta: [
       'account/introduction',
       'account/create-account',
+      'account/get-account',
       'account/subscription',
       'account/cancel-subscription',
     ],

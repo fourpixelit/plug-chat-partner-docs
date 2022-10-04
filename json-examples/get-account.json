@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://api.plugchat.com.br/integrator/account/[ID_DA_CONTA]/",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [],
+  "cookies": [],
+  "postData": {}
+}
