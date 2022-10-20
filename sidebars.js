@@ -30,6 +30,7 @@ module.exports = {
       'operators/create-operator',
       'operators/list-operator',
       'operators/update-operator',
+      'operators/get-operator',
     ],
     URA: ['ura/introduction', 'ura/config-ura'],
     SDK: [
