@@ -37,6 +37,7 @@ Ao criar por padrão também é criado um departamento padrão com nome de depar
 | onReceiveMessage | string | Configure a URL para receber informação sempre que receber uma nova mensagem. |
 | onSendingMessage | string | Configure a URL para receber informação sempre que enviar uma nova mensagem. |
 | onMessageStatus | string | Configure a URL para receber informação sempre que uma mensagem for recebida, lida ou executada. |
+| onMessageDeliveryError | string | Configure a URL para receber informação sempre que falhar o envio de uma mensagem. |
 
 ---
 
