@@ -32,6 +32,12 @@ module.exports = {
       'operators/update-operator',
     ],
     URA: ['ura/introduction', 'ura/config-ura'],
+    Satisfação: [
+      'satisfaction/introduction',
+      'satisfaction/by-date',
+      'satisfaction/by-ticket',
+      'satisfaction/by-operator',
+    ],
     SDK: [
       'sdk/introduction',
       'sdk/install',
