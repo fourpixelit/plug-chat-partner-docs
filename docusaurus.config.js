@@ -18,14 +18,16 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://www.plugchat.com.br/white-label/plug-chat/plug-favicon.png',
+  favicon:
+    'https://www.plugchat.com.br/white-label/plug-chat/favicon_plugchat.png',
   organizationName: 'Plug Chat',
   projectName: 'plug-chat-partner-docs',
   themeConfig: {
     navbar: {
       logo: {
         alt: 'Plug Chat Logo',
-        src: 'https://www.plugchat.com.br/white-label/plug-chat/plug-white.png',
+        src:
+          'https://www.plugchat.com.br/white-label/plug-chat/logo-v2-oficial-branco.png',
       },
       items: [
         {
