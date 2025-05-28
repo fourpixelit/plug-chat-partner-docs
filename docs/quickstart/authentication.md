@@ -19,7 +19,7 @@ Em todas chamadas que será feita, será necessário informar o atributo **Autho
 
 ## Como consigo meu token?
 
-Atualmente a API de integração é voltada a Software House que já possua um sistema e queira embutir um chat de atendimento via Whatsapp aos seus clientes. O processo passa por uma análise qualificativa feita pela nossa propria equipe. Caso queira solicitar se increver como partner, preencha o formulário: https://forms.gle/6NEovChmYgzVqLqQ7
+Atualmente a API de integração é voltada a Software House que já possua um sistema e queira embutir um chat de atendimento via Whatsapp aos seus clientes. O processo passa por uma análise qualificativa feita pela nossa propria equipe. Caso queira solicitar se inscrever como partner, preencha o formulário: https://forms.gle/mahKBFoAvshzdwVc6
 
 ---
 
