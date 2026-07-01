@@ -17,6 +17,7 @@ module.exports = {
       'account/get-account',
       'account/subscription',
       'account/cancel-subscription',
+      'account/extension-token',
     ],
     Departamentos: [
       'departments/introduction',
